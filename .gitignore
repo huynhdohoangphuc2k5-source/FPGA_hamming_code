@@ -1,0 +1,15 @@
+# Ket qua mo phong
+*.vcd
+*.fst
+*.out
+sim_out
+sim/gen
+*.exe
+
+# Thu muc build cua simulator
+work/
+obj_dir/
+xsim.dir/
+*.log
+*.jou
+*.pb
